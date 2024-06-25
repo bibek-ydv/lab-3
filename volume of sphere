@@ -1,0 +1,25 @@
+
+#include<iostream.h>
+#include<conio.h>
+struct sphere
+{
+	float r;
+	void set(float a)
+{
+	r=a;
+}
+float vol()
+{
+	return(4*3.14*r*rr\3);
+}
+};
+void main()
+{
+	struct sphere s;
+	clrscr();
+	s.set(2)
+	float v=s.vol();
+	cout<<"the volume of the sphere is:"<<v;
+	getch();
+}
+
